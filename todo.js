@@ -15,8 +15,6 @@ document.addEventListener ('DOMContentLoaded', function(){
     ourField.focus()
   }
 
-
-
 })
 function deleteItem(elementToDelete) {
     elementToDelete.parentElement.remove()
