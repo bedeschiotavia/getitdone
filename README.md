@@ -22,8 +22,7 @@ The task was to create a website and integrate a to do list developed with JavaS
 
 ### Built With
 
-[![HTML][HTML]]
-
+<img alt="html5 logo" align="center" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
 
 ## Contact
 
